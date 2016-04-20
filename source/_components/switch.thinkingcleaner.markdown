@@ -10,7 +10,7 @@ footer: true
 logo: thinkingcleaner.png
 ha_category: Switch
 ha_iot_class: "Local Poll"
---------------------------
+---
 
 
 The `ThinkingCleaner` switch platform simple displays information about your [ThinkingCleaner](http://www.thinkingcleaner.com) addon.
